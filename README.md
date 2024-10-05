@@ -10,7 +10,10 @@ Olá, eu sou Mariana Lima, moro no Rio de Janeiro e sou formada em pedagogia e e
 ***
 
 Olá, eu sou a Thalya, moro no Rio de Janeiro e estou no meu último semestre do curso de Análise e Desenvolvimento de Sistemas. Atualmente, trabalho como desenvolvedora front-end em uma healthtech. Amo cafeterias fofinhas, mangás e tenho 2 pets chamadas Meg 🐶 e Sophie 😺.
+
+
  <img src="https://media.licdn.com/dms/image/v2/D4D03AQENKfXdINBYGA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696166198487?e=2147483647&v=beta&t=xd8pR-V6DCfNjM6xv2cRr0iVkLKtJ7mI3QB6jVDTVqk" alt="Gif Yeah" width="198">
+
 
 Minhas redes ✨
 
